@@ -1,0 +1,9 @@
+langgraph 
+langchain-community 
+langchain-openai 
+tavily-python
+tqdm
+pandas
+numpy
+openai
+python-dotenv
